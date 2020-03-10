@@ -12,3 +12,4 @@ markdown_extensions:
   - admonition
 nav:
   - Overview: index.md
+  - getting_started.md
