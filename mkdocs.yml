@@ -1,0 +1,14 @@
+site_name: Test mkdocs
+repo_url: 'https://github.com/ibiqlik/mkdocs-test'
+strict: true
+theme:
+  name: "material"
+  palette:
+    primary: 'green'
+    accent: 'indigo'
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+nav:
+  - Overview: index.md
